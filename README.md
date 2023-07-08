@@ -22,7 +22,7 @@ This is an interactive web application developed using Python and the Flask fram
 
 ## Setup and Installation
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/iamhwkchn/url-shortener.git
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Flask development server: `python app.py`
 4. Access the web app in your browser by visiting `http://localhost:5000`
